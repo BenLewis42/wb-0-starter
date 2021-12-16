@@ -10,7 +10,7 @@ After cloning this repository, you should do the following:
 5. In your `index.Rmd` file, `source()` your `analysis.R` script and display your visualization. 
 6. Click the **Knit** button to compile your `index.Rmd` file into an `index.html` file.
 7. You should now `add`, `commit` (don't forget to include a message with `-m "Some message"`), and `push` your code.
-8. You should now be able to view your project at https://info478-s20.github.io/wb-0-USERNAME (where `USERNAME` is _your_ GitHub username)
+8. You should now be able to view your project at https://info478-w22.github.io/wb-0-USERNAME (where `USERNAME` is _your_ GitHub username)
 9. Submit the URL where you can view your project to Canvas, and please make a comment that includes the URL where your code is hosted
 
 We will follow these steps for nearly every workbook and assignment, so please make sure you feel comfortable with them.
