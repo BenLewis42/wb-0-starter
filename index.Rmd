@@ -1,0 +1,16 @@
+---
+title: "Workbook 0"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r}
+source("analysis.R", local = knitr::knit_global())
+
+
+```
+
